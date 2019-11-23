@@ -1,0 +1,3 @@
+Bukas perimetras: 6
+Bukas perimetras: 16
+Lygiakraštis perimetras: 36

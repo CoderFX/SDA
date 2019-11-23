@@ -1,0 +1,4 @@
+Rudis,4,rudas
+Murzius,2,juodas
+Lojikas,6,margas
+Vikis, 7,geltonas

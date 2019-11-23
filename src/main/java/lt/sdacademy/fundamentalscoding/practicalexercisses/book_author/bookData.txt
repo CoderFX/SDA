@@ -1,0 +1,2 @@
+Pirma Knyga;1Autoriaus Vardas,1emailas@ttt.lt,(1)12312345|2Autoriaus Vardas,2emailas@ttt.lt,(2)12312345;33.99;7
+MIKĖ PUKUOTUKAS;Vienas Autorius,mikes@emailas.lt,8 614 60081;20.7;2

@@ -1,0 +1,5 @@
+Andrius;1455.8;32;m
+Povilas;1000.5;19;m
+Greta;1600.7;46;f
+Ineta;1345.6;25;f
+Jurgis;1234.56;33;m
