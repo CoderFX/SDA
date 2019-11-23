@@ -10,7 +10,7 @@ public class GuessWordMain {
         char[] letterArray = WORD.toUpperCase().toCharArray();
         char[] hiddenArray = new char[letterArray.length];
         Arrays.fill(hiddenArray,'_');
-        int trycount = 1;:
+        int trycount = 1;
 
         System.out.println("Žodis iš " + WORD.length() +" raidžių");
         while(true){
